@@ -1,7 +1,2 @@
-Run time files such as log,lock,cache or temporary files
-Files with sensitive informations such as passwords and api keys
-compile codes such as .class or .o
-Dependency directories
-Build directories
-system files
-IDE or text editors config files
+
+~/.gitconfig_global
